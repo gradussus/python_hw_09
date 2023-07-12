@@ -1,7 +1,6 @@
 contacts = {'Duda': '+3806666666666', 'Budanov': '+380999999999'}
 
 
-
 def main():
     while True:
         
